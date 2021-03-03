@@ -1,0 +1,10 @@
+.shop_container{
+    display: flex;
+    background: rgb(235, 151, 151);
+}
+.product_container{
+    width: 70%;
+    margin-left: 200px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
